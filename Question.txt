@@ -1,0 +1,23 @@
+Tạo lớp Sinh Viên như sau:
+
+- Gồm các thuộc tính sau: mã sinh viên, tên sinh viên, điểm lý thuyết, điểm thực hành.
+
+- Viết các phương thức cơ bản (phương thức set,get,cấu tử,..)  và các phương thức sau:
+
+   + Phương thức tính điểm tổng kết của sinh viên theo công thức sau: (điểm lý thuyết)*0.3+(điểm thực hành)*0.7.
+
+   + Phương thức xếp hạng sinh viên:
+
+          0<Điểm tổng kết<4: Hạng trung bình
+
+          4<=Điểm tổng kết<=7:Hạng khá
+
+          7<Điểm tổng kết<=10: Hạng giỏi
+
+Viết chương trình :
+
+a. Nhập và in ra 1 danh sách sinh viên.
+
+b. Sắp xếp và in ra sinh viên theo điểm tổng kết
+
+c. In ra sinh viên có điểm tổng kết cao nhất và thấp nhất.
